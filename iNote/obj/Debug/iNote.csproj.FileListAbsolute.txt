@@ -1,0 +1,135 @@
+C:\Users\Enot\Desktop\iNote\iNote\bin\Debug\iNote.exe.config
+C:\Users\Enot\Desktop\iNote\iNote\bin\Debug\iNote.exe
+C:\Users\Enot\Desktop\iNote\iNote\bin\Debug\iNote.pdb
+C:\Users\Enot\Desktop\iNote\iNote\bin\Debug\xNet.dll
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.exe
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.pdb
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\Enot\Desktop\iNote\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enot\Desktop\iNote\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\bin\Debug\iNote.exe.config
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.exe
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.pdb
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.WallPost.resources
+C:\Users\Enot\Desktop\iNote — копия\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\Enot\Desktop\iNote — копия\iNote\bin\Debug\iNote.exe
+C:\Users\Enot\Desktop\iNote — копия\iNote\bin\Debug\iNote.pdb
+C:\Users\Enot\Desktop\iNote — копия\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enot\Desktop\iNote — копия\iNote\bin\Debug\xNet.dll
+C:\Users\Enot\Desktop\iNote — копия\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enot\Desktop\iNote\iNote\obj\Debug\iNote.SendForm.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\bin\Debug\iNote.exe.config
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.exe
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.pdb
+C:\Users\KS-42\Downloads\iNote (1)\iNote\bin\Debug\iNote.exe
+C:\Users\KS-42\Downloads\iNote (1)\iNote\bin\Debug\iNote.pdb
+C:\Users\KS-42\Downloads\iNote (1)\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KS-42\Downloads\iNote (1)\iNote\bin\Debug\xNet.dll
+C:\Users\KS-42\Downloads\iNote (1)\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.SendForm.resources
+C:\Users\KS-42\Downloads\iNote (1)\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\KS-42\Desktop\iNote (1)\iNote\bin\Debug\iNote.exe.config
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.exe
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.pdb
+C:\Users\KS-42\Desktop\iNote (1)\iNote\bin\Debug\iNote.exe
+C:\Users\KS-42\Desktop\iNote (1)\iNote\bin\Debug\iNote.pdb
+C:\Users\KS-42\Desktop\iNote (1)\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KS-42\Desktop\iNote (1)\iNote\bin\Debug\xNet.dll
+C:\Users\KS-42\Desktop\iNote (1)\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.SendForm.resources
+C:\Users\KS-42\Desktop\iNote (1)\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\Enot\Downloads\iNote\iNote\bin\Debug\iNote.exe.config
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.exe
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.pdb
+C:\Users\Enot\Downloads\iNote\iNote\bin\Debug\iNote.exe
+C:\Users\Enot\Downloads\iNote\iNote\bin\Debug\iNote.pdb
+C:\Users\Enot\Downloads\iNote\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enot\Downloads\iNote\iNote\bin\Debug\xNet.dll
+C:\Users\Enot\Downloads\iNote\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.SendForm.resources
+C:\Users\Enot\Downloads\iNote\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\KS-42\Desktop\iNote\iNote\bin\Debug\iNote.exe.config
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.exe
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.pdb
+C:\Users\KS-42\Desktop\iNote\iNote\bin\Debug\iNote.exe
+C:\Users\KS-42\Desktop\iNote\iNote\bin\Debug\iNote.pdb
+C:\Users\KS-42\Desktop\iNote\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KS-42\Desktop\iNote\iNote\bin\Debug\xNet.dll
+C:\Users\KS-42\Desktop\iNote\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.SendForm.resources
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\KS-42\Desktop\iNote\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\iNote.exe.config
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.exe
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.pdb
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\iNote.exe
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\iNote.pdb
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\xNet.dll
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.Auth.resources
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.Authors.resources
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.Form1.resources
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.Form2.resources
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.Properties.Resources.resources
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.SendForm.resources
+C:\Users\eHot\Desktop\iNote\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\MySql.Data.dll
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\Database1.mdf
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\Database1_log.ldf
+C:\Users\eHot\Desktop\iNote\iNote\bin\Debug\SQL.dll
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\iNote.exe.config
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.exe
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.pdb
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\Database1.mdf
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\Database1_log.ldf
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\iNote.exe
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\iNote.pdb
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\MySql.Data.dll
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\Newtonsoft.Json.dll
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\SQL.dll
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\xNet.dll
+D:\My Documents\university II-I\iNote\iNote\bin\Debug\Newtonsoft.Json.xml
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.csprojResolveAssemblyReference.cache
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.Auth.resources
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.Authors.resources
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.Form1.resources
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.Form2.resources
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.Properties.Resources.resources
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.SendForm.resources
+D:\My Documents\university II-I\iNote\iNote\obj\Debug\iNote.csproj.GenerateResource.Cache
